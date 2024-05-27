@@ -1,6 +1,6 @@
 ### Hi! I'm Thiago Santos 👨🏽‍💻
 
-My journey so far has been a massive learning experience in the field of web development, using established technologies such as JavaScript and PHP. Additionally, I'm a Data Analysis student, where I delve into the world of data and its applications in both business and personal daily life.
+My journey so far has been a massive learning experience in the field of web development, using established technologies such as JavaScript, PHP and Java. Additionally, I'm a Data Analysis student, where I delve into the world of data and its applications in both business and personal daily life.
 
 My public repositories are open for collaboration and learning.
 
@@ -20,4 +20,5 @@ For any questions or suggestions, you can find me on LinkedIn!
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Symfony" src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
+  
 </div>
